@@ -1,2 +1,7 @@
 # DMI
 6th semester DMI Assignments repository
+IIT2018142
+IIT2018146
+IIT2018150
+IIT2018184
+IIT2018185
